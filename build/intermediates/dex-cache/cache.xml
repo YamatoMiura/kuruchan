@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Bot\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-59052615b2e538707a55ed5fc1322c077cfabace.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-a183cfa8e98e6eb0eaade8a418ca3e80c758ccf3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-68f1e1cdfb45099ef89e173d8e7e35a11f581d95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-248110bd9c24eda919a277807a817d26abb918b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-d70c8c428b9dd1b4428ad380fcd522eef86cc6bf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-4015752e798ad9b9d5d6f452511ea0efe27756ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-13254edfb11366d9dd19badb4ea4d0c2f513487d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-daf8a8901cc9510f73bc764635e32914e0f90e6b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-fe346fd5979cf28f6f3926cb22a4d5e4188113b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-fd6b1327da975b9750d4f4e9d035975782cb8f06.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-3d71f752d182dca8087f30ec74e5aa2cfe52543c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-b9c93092a13b014e84537c026dc8aaf36c73dc71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-6f8b1c9d30f5ccbfa91e03ff7ac7376c870b3c6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-5b72527a4c200d61f05533f7a92bfecf41fdc285.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-24798e96faccf0789550d9d45b6715d90fb12a98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-b5ac003c0a8b836774be44fe48609602a30b9904.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-5919de22ff232168eb8ed8e64f638904b7c5a42c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\libs\mariadb-java-client-1.2.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="93c0d1800509fca7a280f2317a6793fb3591217e">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\mariadb-java-client-1.2.3-0c3d23f5d893e0f89593d3b72c2b74f93362ddf9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-50a90c710974e57319bc5f2b5397d91a83e4ec4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-436dd4be1446550b7a8a9b2d9dda3c15db53d1a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-33557d65fb9e4ce64e9e0e0c7820787991ac919e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\MAP\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="eb68179eacc07a2416e36f96c9db871757c46f88">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-aefee15289279f7c380dba19617280fafb0905ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-17d278a162ee8fbb75c62e6423b5816df16127e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-7079dcc6f8c384d70e1ccb68774bc9d6d41ca65f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Bot\Desktop\2015PBL\MAP\app\build\intermediates\pre-dexed\debug\classes-cde68ad60139868deea0b75053f347301a359e84.jar" />
+    </item>
+
+</items>
